@@ -1,4 +1,3 @@
-# predicting-sneaker-resale
 Sole Prediction: Predicting the resale price of sneakers
 
 In recent years, the sneaker resale market has exploded, driven by limited releases, celebrity endorsements, and cultural trends. This project aims to develop a machine learning model that accurately predicts the resale prices of sneakers based on various factors such as brand, model, release date, colorway, etc. 
